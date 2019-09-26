@@ -29,7 +29,6 @@ public class Main {
         for (Element element : p_elements) {
             System.out.println(element.text());
             countP++;
-            System.out.println("KLK");
         }
         System.out.println("Cantidad de parrafos: " + countP + '\n');
 
